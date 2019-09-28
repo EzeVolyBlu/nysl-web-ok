@@ -1,0 +1,13 @@
+/* input{
+    margin-bottom: 1em;
+    margin-right: 2em;
+} */
+
+label{
+    color:red;
+    font-size: 1.2em;
+}
+
+input{
+    margin: 0.5em 0;
+}

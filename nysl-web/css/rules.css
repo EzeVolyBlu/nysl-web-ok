@@ -1,0 +1,68 @@
+
+
+
+
+
+
+
+
+
+.list-none{
+    list-style-type: none;
+}
+
+/* .ul-rules{
+    list-style-type: none;
+
+} */
+
+.ul-sq{
+    list-style-type:square;
+}
+ 
+.list-number{
+    list-style-type:1;
+}
+
+/* .mb-1{
+    margin-bottom: 0em;
+} */
+
+.mt-5{
+    margin-top: 1.5em;
+}
+
+.mt-2{
+    margin-top: 0.75em;
+}
+
+/* .rules{
+    margin-bottom: 1em;
+} */
+
+/* .rules>li{
+    margin: 0.5em 0;
+     color: violet; 
+    font-size: 1em;
+} */
+
+.list-lowerCase{
+    list-style-type:lower-alpha;
+}
+
+.ul-c{
+    list-style-type:circle;
+
+}
+
+.bold{
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,212 @@
+html {
+    font-family: 'Patrick Hand', cursive;
+}
+
+body{
+    padding: 3em 10em;
+}
+
+.title-banner-container{
+    height: 8em;
+    padding-right: 1em;
+}
+
+.image-banner-container{
+    margin-top:-2em;
+    height: 345px;
+    background: url("../images/banner.jpg") no-repeat center;
+    background-size: contain;  
+}
+
+.flex-container{
+    display: flex;
+}
+
+.baseline{
+    align-items: baseline;
+}
+
+.align-bottom{
+    align-items: baseline;
+} 
+
+
+
+
+.italic{
+    font-style: italic;
+}
+
+
+.red-border{
+    border: solid red 5px;
+}
+
+.white-border{
+    border: solid white 0.4em;
+}
+
+.blue-border{
+    border: solid blue 5px;
+}
+
+.green-border{
+    border: solid green 5px;
+}
+
+/* NAV MENU */
+
+.nav-menu>li {
+    display: inline-block;
+    background-color:royalblue;
+    border: solid black 0.1em;
+    padding: 0.1em 0.8em;
+    font-size: 1.1em;
+    margin: 0 0.3em 0.3em ;
+    box-shadow: 0.2em 0.2em black
+}
+
+ul>li>a{
+    text-decoration: none;
+    color: white;
+}
+
+/* a:hover{
+    background: darkblue;
+} */
+
+#active-btn{
+    background-color: olivedrab;
+}
+
+.title {
+    font-size: 4em;
+    margin: 0;
+}
+
+.subtitle {
+    font-size: 1.75em;
+    padding: 0.25em;
+    display: block;
+    border: solid 0.1em;
+    text-align: center;
+    margin-bottom: 1em;
+    margin-top: 0.4em;
+}
+
+.logo{
+    height: 10em;
+}
+
+
+
+.ml-4>div>p{
+    margin-left: 2em;
+}
+
+div>h3{
+    font-style: italic;
+    font-weight: bold;
+}
+
+.center{
+    text-align: center;
+}
+
+.weight-normal{
+    font-weight: normal;
+}
+
+.style-normal{
+    font-style: normal;
+}
+
+header>h3{
+    font-size: 1.3em;
+}
+
+.rules-container{
+    font-size: 1.25em;
+}
+
+.underline {
+    text-decoration: underline; 
+}
+
+.mr-2{
+    margin-right: 2em;
+}
+
+.mb-auto{
+    margin-top: auto;
+} 
+
+.ml-auto{
+    margin-left: auto;
+}
+
+.ml-2{
+    margin-left: 2em;
+}
+
+.ml-4{
+    margin-left: 4em;
+}
+
+.mb-1{
+    margin-bottom: 1em;
+}
+
+
+
+
+/* .menu{
+    margin-right: 0.5em;
+    margin-top: -4em;
+}
+
+
+
+.ul-navbar {
+    list-style-type: none;
+    
+}
+
+.li-navbar {
+    display: inline-block;
+    background-color:royalblue;
+    color: white;
+    border: solid black;
+    padding: 15px 20px;
+    box-shadow: 0.1em 0.1em black
+}
+
+
+
+.logo-meetings img {
+    width: 7.5em;
+    padding: 1em 2em;
+}
+
+.logo-meetings {
+    display: flex;
+    flex-direction: row;
+}
+
+p.meetings{
+    padding-left: 1em;
+  }
+  
+
+
+section.meetings{
+    margin-left: 1em;
+}
+
+h2, h3{
+    margin-bottom: 0;
+}
+
+p{
+    margin-top: 0.1em;
+}
